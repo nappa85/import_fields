@@ -6,4 +6,4 @@ Given any number of file paths like `"path/to/file.rs"`, the Proc Macro imports 
 
 It is possible to specify a filter in the form `"path/to/file.rs::StructName"` to import only fields from matching Struct.
 
-Take a look at [tests/path.rs](the tests) for a better explanation.
+Take a look at [the tests](tests/path.rs) for a better explanation.
